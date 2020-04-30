@@ -26,7 +26,7 @@
     "core-js": "^3.6.1",
     "date-fns": "^2.8.1",
     "flatpickr": "^4.6.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng2-cookies": "^1.0.12",
     "ngx-pagination": "^5.0.0",
     "ngx-toastr": "^11.2.1",
